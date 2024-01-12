@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- My name is ji soo young.
+- I live in Busan in south korea.
+
+
 <!--
 **poundocean/poundocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
